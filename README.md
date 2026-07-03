@@ -56,7 +56,7 @@ End-to-end fraud detection analytics project analyzing 1 million bank transactio
 ![Fraud Analysis](Fraud_Analysis.png)
 
 ### Key Insights
-![Key Insights](Key_Insights.png)
+![Key Insights](Key_Insights&KPIs.png)
 
 ## Project Structure
 financial_analysis/
